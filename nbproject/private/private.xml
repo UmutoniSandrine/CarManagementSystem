@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/web/Owner.xhtml</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/Model/CarModel.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/web/index.xhtml</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/hibernate.cfg.xml</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/Test/Main.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/Domain/NewHibernateUtil.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/DataBaseDao/CarDatabaseDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/DataBaseDao/OwnerDao.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/web/PassengerCar.xhtml</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/Model/OwnerModel.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/Domain/Truck.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/Domain/PassengerCar.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/Domain/Owner.java</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/web/Truck.xhtml</file>
+            <file>file:/home/bitwayiki/NetBeansProjects/CarManagementSystem/src/java/Domain/Car.java</file>
+        </group>
+    </open-files>
+</project-private>

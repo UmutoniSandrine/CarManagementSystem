@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <!--        Hello from Facelets-->
+        OWNER
+
+        <div>
+            <h1>REGISTER OWNER</h1>
+        </div>
+          <h:form>
+        <div>
+            
+                <label>
+
+                    <h:inputText value="#{ownerModel.ow.name}"/>
+                </label>
+        </div>
+        <div>
+            <h:commandButton value="Register" action="#{ownerModel.registerOwner()}"/>
+        </div>
+        </h:form>
+        
+        <div>
+            <table border="1">
+                <thread>
+                    <tr>
+                        <th>ID</th>
+                        <th>NAME</th>
+                        
+                    </tr>
+                </thread>
+                <tbody>
+                    <ui:repeat value="#{ownerModel.owners}" var="ow">
+                        <tr>
+                            <td>#{ow.id}</td>
+                            <td>#{ow.name}</td>
+                        </tr>
+                        
+                    </ui:repeat>
+                </tbody>
+            </table>
+        </div>
+    </h:body>
+</html>
+
